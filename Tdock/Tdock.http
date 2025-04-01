@@ -1,0 +1,6 @@
+@Tdock_HostAddress = http://localhost:5176
+
+GET {{Tdock_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
